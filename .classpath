@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-1.9.0-lite.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-acegisecurity-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-acegisecurity-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-acegisecurity-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-hibernate3-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-hibernate3-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-hibernate3-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-hibernate4-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-hibernate4-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-hibernate4-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring2-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring2-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring2-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring3-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring3-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring3-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring31-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring31-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-spring31-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-springsecurity2-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-springsecurity2-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-springsecurity2-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-springsecurity3-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-springsecurity3-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-springsecurity3-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-wicket13-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-wicket13-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-wicket13-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-wicket15-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-wicket15-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/jasypt/jasypt-1.9.0/lib/jasypt-wicket15-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/mongodb-driver-3.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/mongodb-driver-3.10.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/mongodb-driver-3.10.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/bson-3.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/mongodb-driver-core-3.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chang/Downloads/Setup Progs/json-20190722.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
